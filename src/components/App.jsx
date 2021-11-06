@@ -1,5 +1,8 @@
 import React from 'react';
+import '../styles/global.scss';
 
-const App = () => <h1>Plantilla para react</h1>
+const App = () => {
+    return (  <h1>Plantilla para react</h1>  );
+}
 
 export default App;
